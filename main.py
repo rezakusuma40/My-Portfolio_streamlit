@@ -64,6 +64,8 @@ skills = [
   ("Apache Airflow", "assets/icons/airflow.svg"),
   ("Apache Kafka", "assets/icons/kafka.svg"),
   ("BigQuery", "assets/icons/bigquery.svg"),
+  ("Cloud Storage", "assets/icons/gcs.svg"),
+  ("Compute Engine", "assets/icons/compute-engine.svg"),
   ("Dataproc", "assets/icons/dataproc.svg"),
 ]
 
