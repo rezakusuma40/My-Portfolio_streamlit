@@ -113,7 +113,6 @@ platformdirs==4.2.1
 playwright==1.45.1
 plotly==6.0.0
 pminit==0.2.1
-POI @ git+https://github.com/ptariindonesia/library_poi@1c273465a25877e654f0dc0ba344dc2e1d1b7893
 prompt-toolkit==3.0.43
 proto-plus==1.24.0
 protobuf==4.24.4
@@ -159,7 +158,6 @@ rpds-py==0.22.3
 rsa==4.9
 scikit-learn==1.5.1
 scipy==1.14.1
-scraping @ git+https://github.com/ptariindonesia/Loketech_Cleaning.git@e679d02b27f75499dca93f397e2b1eaec652ea91
 seaborn==0.13.2
 selenium==4.27.1
 sentry-sdk==2.3.1
