@@ -33,7 +33,7 @@ st.write("---")
 # daftar proyek
 st.subheader("📂 Project")
 projects = [
-  {"title": "Prediksi Harga Airbnb", "description": "Pemodelan machine learning untuk memprediksi harga penginapan.", "image": "assets/airbnb price prediction.jpg", "link": "#"},
+  {"title": "Prediksi Harga Airbnb", "description": "Pemodelan machine learning untuk memprediksi harga penginapan.", "image": "assets/airbnb price prediction.jpg", "link": "https://docs.google.com/presentation/d/1NF4q-dpW9v2fPGEQq9YPy5l4iGEwVxaj/edit#slide=id.p20"},
   {"title": "Private Lease Cars Scraping", "description": "Web scraping data situs penyewaan mobil.", "image": "assets/private cars lease.jpg", "link": "https://github.com/rezakusuma40/Private_Lease_Cars_Scraping"},
   {"title": "Investment Tweets Processing", "description": "Membuat End-to-end ETL pipeline untuk memproses tweet tentang investasi.", "image": "assets/investment tweets.jpeg", "link": "https://github.com/rezakusuma40/SBD_Cilsy_Final_Project"},
 ]
